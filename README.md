@@ -2,10 +2,12 @@ With Python, i'm trying to make a good and secure cryptographer.
 
 If you want to encrypt your texts, currently on this level:
 
-Í'=__2ÜÛ?'^"(=[&2"´ÜÉ_2_#´"^"$&2_2]ÜË"('äÜû2Í'=__2öqÜ&2]Ü=´ÜÖ$2_2(&2_=´Ü=_2("]'=__2Ü$2=´~2%=_[~2(_2(ûÜ]'=__2Ü[(=´]'"([=[&2"´Ü]_2({&2__2]Ü=´*Ü_"$2$2~2´&2_=[&2"´]Ü_"$2'=´`2Ü#_2=*@2~2=([_2(_2*Ü&2´ÜÊ=:[#"(´_2ûÜË=^&2%"(´&2=äÍ'=__2ÜÛ?'^"(=[&2"´ÜÉ_2_#´"^"$&2_2]ÜË"('äÜû2Í'=__2öqÜ&2]Ü=´ÜÖ$2_2(&2_=´Ü=_2("]'=__2Ü$2=´~2%=_[~2(_2(ûÜ]'=__2Ü[(=´]'"([=[&2"´Ü]_2({&2__2]Ü=´*Ü_"$2$2~2´&2_=[&2"´]Ü_"$2'=´`2Ü#_2=*@2~2=([_2(_2*Ü&2´ÜÊ=:[#"(´_2ûÜË=^&2%"(´&2=ä1
+![incrypted](https://user-images.githubusercontent.com/76222904/126081825-c34422a0-7488-4132-b88b-4c9a2dba80ad.png)
 
 ...And decrypt something like this:
 
-Space Exploration Technologies Corp. (SpaceX) is an American aerospace manufacturer, space transportation services and communications company headquartered in Hawthorne, California.Space Exploration Technologies Corp. (SpaceX) is an American aerospace manufacturer, space transportation services and communications company headquartered in Hawthorne, California.
+![decrypted](https://user-images.githubusercontent.com/76222904/126081830-286e6f97-37d9-49c7-8028-dee6f8157be8.png)
 
 ...Just have Python installed on your device and execute (currently) Vmrtnz.py.
+
+Now, look at the length of "Vmrtnz" and get your own conclusions about what this meant in the first version.
